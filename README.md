@@ -7,7 +7,7 @@
 Credentials:
 
 
-      1. Vatsal Dinesh Rajgor
-      2. Ajinkya Karbhari Porje
-      3. Jibran Shoukat Mujawar
+      1. Vatsal Dinesh Rajgor (https://github.com/rv20197)
+      2. Ajinkya Karbhari Porje (https://github.com/ajinkyaporje)
+      3. Jibran Shoukat Mujawar (https://github.com/mujawarjibran)
 ******************************************************************************************************************************************
