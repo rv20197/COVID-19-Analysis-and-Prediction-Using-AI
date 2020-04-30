@@ -21,10 +21,11 @@ Credentials:
 
 ****Many classical methods (e.g. ARIMA) try to deal with Time Series data with varying success (not to say they are bad at it). In the last couple of years, [Long Short Term Memory Networks (LSTM)](https://en.wikipedia.org/wiki/Long_short-term_memory) models have become a very useful method when dealing with those types of data.****
 
-***Recurrent Neural Networks (LSTMs are one type of those) are very good at processing sequences of data. They can "recall" patterns in the data that are very far into the past (or future). In this tutorial, you're going to learn how to use LSTMs to predict future Coronavirus cases based on real-world data.****
+***Recurrent Neural Networks (LSTMs are one type of those) are very good at processing sequences of data. They can "recall" patterns in the data that are very far into the past (or future). In this tutorial, you're going to learn how to use LSTMs to predict future Coronavirus cases based on real-world data.***
 ****************************************************************************************************************************************
+**COVID-19**
 
-**The coronavirus COVID-19 is affecting 210 countries and territories around the world and 2 international conveyances.**
+**The COVID-19 is affecting 210 countries and territories around the world and 2 international conveyances.**
 
 **3.4% Mortality Rate estimate by the World Health Organization (WHO) as of March 3
 In his opening remarks at the March 3 media briefing on Covid-19, WHO Director-General Dr Tedros Adhanom Ghebreyesus stated:**
@@ -36,3 +37,7 @@ In his opening remarks at the March 3 media briefing on Covid-19, WHO Director-G
 **Since, COVID-19 is a Global Outbreak, We have to fight this Pandemic by supporting Government and Maintaining the Social Distancing Norms and following all the precautionary measures for maintaining healty life style**
 
 ***STAY HOME AND STAY SAFE***
+
+Reference
+1. (https://www.worldometers.info/coronavirus/#countries)
+2. (https://github.com/CSSEGISandData/COVID-19)
