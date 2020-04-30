@@ -2,7 +2,7 @@
 ****************************************************************************************************************************************
 ***It's a small attempt to utilize the technology for the sake of humanity by predicting the figures roughly so that we can do the needful to counter the situation.***
 
-***You can predict for any number of days and view predictions for any country that you selected from the given list***
+***You can predict for any number of days and view predictions for any country that you selected from the given list.***
 ****************************************************************************************************************************************
 
 ****************************************************************************************************************************************
@@ -36,7 +36,7 @@ In his opening remarks at the March 3 media briefing on Covid-19, WHO Director-G
 
 **The novel coronavirus' case fatality rate was estimated at around 2%, in the WHO press conference held on January 29, 2020**
 
-**Since, COVID-19 is a Global Outbreak, We have to fight this Pandemic by supporting Government and Maintaining the Social Distancing Norms and following all the precautionary measures for maintaining healty life style**
+**Since, COVID-19 is a Global Outbreak, We have to fight this Pandemic by supporting Government and Maintaining the Social Distancing Norms and following all the precautionary measures for maintaining healty life style.**
 
 ***STAY HOME AND STAY SAFE***
 
