@@ -1,6 +1,8 @@
 # COVID-19-Analysis-and-Prediction-Using-AI
 ****************************************************************************************************************************************
-***It's a small attempt to utilize the technology for the sake of humanity by predicting the figures roughly so that we can do the needful to counter the situation***
+***It's a small attempt to utilize the technology for the sake of humanity by predicting the figures roughly so that we can do the needful to counter the situation.***
+
+***You can predict for any number of days and view predictions for any country that you selected from the given list***
 ****************************************************************************************************************************************
 
 ****************************************************************************************************************************************
