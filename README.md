@@ -39,5 +39,5 @@ In his opening remarks at the March 3 media briefing on Covid-19, WHO Director-G
 ***STAY HOME AND STAY SAFE***
 
 Reference
-1. (https://www.worldometers.info/coronavirus/#countries)
-2. (https://github.com/CSSEGISandData/COVID-19)
+1. https://www.worldometers.info/coronavirus/#countries
+2. https://github.com/CSSEGISandData/COVID-19
